@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "sachin-rathee"
+  },
+  "targets": {
+    "sachin-rathee": {
+      "hosting": {
+        "portfolio": [
+          "sachin-portfolio"
+        ]
+      }
+    }
+  }
+}
